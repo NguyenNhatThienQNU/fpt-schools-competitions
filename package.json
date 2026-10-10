@@ -1,0 +1,11 @@
+{
+  "name": "fpt-schools-competitions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cổng thông tin cuộc thi dành cho học sinh FPT Schools",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  }
+}
